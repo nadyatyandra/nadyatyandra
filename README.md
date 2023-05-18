@@ -1,7 +1,7 @@
 ## Hey, there 👋🏻
 
-<h3 align="center"><a href="https://hud0shnik.github.io/">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Nadya+Tyandra;An+iOS+Developer;An+AI+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=fff4c4&vCenter=true&size=21"></a>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Nadya+Tyandra;An+iOS+Developer;An+AI+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=fff4c4&vCenter=true&size=21">
 </h3>
 
 Here is where I post my code, to either work collaboratively or showcase my past projects.
@@ -11,12 +11,15 @@ Here is where I post my code, to either work collaboratively or showcase my past
 - 📩 HMU at [nadyatyandra05@gmail.com](mailto:nadyatyandra05@gmail.com)
 
 ## GitHub Stats 📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadyatyandra&count_private=true&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadyatyandra&theme=gruvbox_light)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nadyatyandra&theme=gruvbox_light&hide_border=true)
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadyatyandra&theme=gruvbox_light&show&layout=compact" height="150px"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadyatyandra&show_icons=true&theme=gruvbox_light&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadyatyandra&theme=gruvbox_light&layout=compact&hide_border=true&count_private=true&show_icons=true)
+  
+</div>
 
 ## Skills 💪🏻
 <p align="center">
