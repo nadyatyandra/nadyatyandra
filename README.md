@@ -45,4 +45,7 @@ Here is where I post my code, to either work collaboratively or showcase my past
 </p>
 
 ## Let's get connected 🔗
-<a href="https://www.linkedin.com/in/nadyatyandra" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadyatyandra" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
+  <a href="https://medium.com/@nadyatyandra" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /></a>
+</p>
