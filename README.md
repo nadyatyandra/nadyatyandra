@@ -13,39 +13,53 @@ Here is where I post my code, to either work collaboratively or showcase my past
 ## GitHub Stats 📈
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nadyatyandra&theme=gruvbox_light&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nadyatyandra&theme=gruvbox_light&hide_border=true&card_width=500)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadyatyandra&show_icons=true&theme=gruvbox_light&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadyatyandra&show_icons=true&theme=gruvbox_light&hide_border=true&card_width=500)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadyatyandra&theme=gruvbox_light&layout=compact&hide_border=true&count_private=true&show_icons=true)
-  
+
 </div>
 
 ## Skills 💪🏻
-<p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch"/>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
-  <br>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
-  <img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" />
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
-  <br>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />
-  <br>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" />
-  <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" />
-  <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" />
-  <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" />
-</p>
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/>
+
+<img align="left" alt="Sketch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg"/>
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
+
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"/>
+
+<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
+
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
+
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg"/>
+
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg"/>
+
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg"/>
+
+<img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg"/>
+
+<br>
+<br>
 
 ## Let's get connected 🔗
-<p align="center">
-  <a href="https://www.linkedin.com/in/nadyatyandra" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
-  <a href="https://medium.com/@nadyatyandra" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /></a>
-</p>
+<a href="https://www.linkedin.com/in/nadyatyandra">
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+
+<a href="https://medium.com/@nadyatyandra">
+<img align="left" alt="Medium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/></a>
