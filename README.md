@@ -6,7 +6,7 @@
 
 Here is where I post my code, to either work collaboratively or showcase my past projects.
 
-- 🍎 I'm currently enrolled in Apple Developer Academy @BINUS
+- 🍎 Apple Developer Academy Graduate
 - 🧠 Interested in iOS Development and Artificial Intelligence
 - 📩 HMU at [nadyatyandra05@gmail.com](mailto:nadyatyandra05@gmail.com)
 
