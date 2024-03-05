@@ -8,14 +8,13 @@ Here is where I post my code, to either work collaboratively or showcase my past
 
 - 🍎 Apple Developer Academy Graduate
 - 🧠 Interested in iOS Development and Artificial Intelligence
+- 🌐 Visit my portfolio on [nadyatyandra.github.io](https://nadyatyandra.github.io)
 - 📩 HMU at [nadyatyandra05@gmail.com](mailto:nadyatyandra05@gmail.com)
 
 ## GitHub Stats 📈
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nadyatyandra&theme=gruvbox_light&hide_border=true&card_width=500)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadyatyandra&show_icons=true&theme=gruvbox_light&hide_border=true&card_width=500)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadyatyandra&theme=gruvbox_light&layout=compact&hide_border=true&count_private=true&show_icons=true)
 
