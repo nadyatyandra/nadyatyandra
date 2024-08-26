@@ -1,7 +1,7 @@
 ## Hey, there 👋🏻
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Nadya+Tyandra;An+iOS+Developer;An+AI+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=fff4c4&vCenter=true&size=21">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Nadya+Tyandra;A+Software+Engineer;An+AI+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=EFE0C6&vCenter=true&size=21">
 </h3>
 
 Here is where I post my code, to either work collaboratively or showcase my past projects.
@@ -10,15 +10,6 @@ Here is where I post my code, to either work collaboratively or showcase my past
 - 🧠 Interested in iOS Development and Artificial Intelligence
 - 🌐 Visit my portfolio on [nadyatyandra.github.io](https://nadyatyandra.github.io)
 - 📩 HMU at [nadyatyandra05@gmail.com](mailto:nadyatyandra05@gmail.com)
-
-## GitHub Stats 📈
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nadyatyandra&theme=gruvbox_light&hide_border=true&card_width=500)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadyatyandra&theme=gruvbox_light&layout=compact&hide_border=true&count_private=true&show_icons=true)
-
-</div>
 
 ## Skills 💪🏻
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
