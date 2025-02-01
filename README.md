@@ -7,7 +7,7 @@
 Here is where I post my code, to either work collaboratively or showcase my past projects.
 - 🏆 Distinguished Winner of [WWDC24 Swift Student Challenge](https://www.wwdcscholars.com/s/95CBA613-AF0A-4D98-BA4B-FC9B6B42C17D/2024)
 - 🍎 Apple Developer Academy Graduate
-- 🧠 Interested in iOS Development and Artificial Intelligence
+- 🧠 Interested in Flutter, iOS Development, and Artificial Intelligence
 - 🌐 Visit my portfolio on [nadyatyandra.github.io](https://nadyatyandra.github.io)
 - 📩 HMU at [nadyatyandra05@gmail.com](mailto:nadyatyandra05@gmail.com)
 
